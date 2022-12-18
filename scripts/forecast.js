@@ -1,1 +1,0 @@
-alert('forecast.js works');
